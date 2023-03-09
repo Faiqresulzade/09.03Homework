@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.allTemplates{
+   border-bottom: 1px solid #dde1e6;
+    height: 90px;
+}
+.allTemplatesBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid red; */
+    height: 85px;
+    width: 85%;
+    margin: 0 auto;
+}
+.leftArrow img{
+    width: 30px;
+    height: 30px;
+}
+.allTemplatesLeft{
+    display: flex;
+    /* border: 1px solid red; */
+    width: 300px;
+    justify-content: space-between;
+}
+.succesPoint{
+    width: 28px;
+    height: 20px;
+}
+.imgAndText{
+    display: flex;
+}
+.allTemplatesRight{
+    display: flex;
+}
+.StartBuildingButton{
+    color: aliceblue;
+    border: 1px solid #583bb6;
+    background-color: #583bb6;
+    width: 188px;
+    height: 37px;
+    border-radius: 20px;
+    margin-left: 25px;
+}
+.imgAndText p{
+    padding: 5px;
+}
+.OvingWillsonBox{
+    margin-top: 10px;
+    /* border: 1px solid red; */
+    width: 50%;
+    margin: 0 auto;
+}
+.OvingWillson{
+    padding-top: 15px;
+    background-color: #f6f8ff;
+    padding-bottom: 218px;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+.theSuccesCoach{
+    /* border: 1px solid black; */
+    margin-top: 100px;
+}
+.ovingImage{
+    width: 50%;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+.textAndButton{
+    /* border: 1px solid blue; */
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.aboutMeButton{
+    background-color: #583bb6;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 149px;
+    height: 38px;
+    color: #dde1e6;
+    border: 1px solid transparent;
+}
+.COACHINGTECHNIQUE{
+    /* border: 1px solid red; */
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+.COACHINGTECHNIQUEBOX p{
+    width: 485px;
+    font-size: 40px;
+}
+.GoalsGrowthReflection{
+    display: flex;
+    flex-direction: column;
+    width: 325px;
+    margin-top: 60px;
+}
+.Testimionals{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    align-items: end;
+    justify-content: space-between;
+    margin-top: 200px;
+    margin-bottom:200px;
+}
+.phylosophyBox{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.phylosophy{
+    /* border: 1px solid red; */
+text-align: center;
+background-color:#101126;
+}
+.phylosophyBox button{
+    color: #dde1e6;
+    background-color: transparent;
+    width: 163px;
+    height: 43px;
+    border-radius: 20px;
+    border: 1px solid #dde1e6;
+}
+.footer{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    margin-top:100px;
+    margin-bottom: 100px;
+    align-items: center;
+}
+.rightFoot img{
+width: 20px;
+height: 20px;
+}
+.rightFoot{
+    display: flex;
+    gap: 18px;
+    height: fit-content;
+}
